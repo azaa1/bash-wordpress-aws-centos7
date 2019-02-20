@@ -10,4 +10,4 @@
 
 ### It disables SELinux. 
 
-## To run the sript: bash packages.sh
+#### To run the sript: bash packages.sh
